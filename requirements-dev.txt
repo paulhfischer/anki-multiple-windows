@@ -1,0 +1,4 @@
+aab
+anki
+mypy
+pre-commit

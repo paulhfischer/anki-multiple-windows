@@ -1,0 +1,9 @@
+{
+  "display_name": "AnkiMultipleWindows",
+  "module_name": "anki_multiple_windows",
+  "repo_name": "anki-multiple-windows",
+  "ankiweb_id": "n/a",
+  "author": "Paul Fischer",
+  "conflicts": [],
+  "targets": ["anki21"]
+}
